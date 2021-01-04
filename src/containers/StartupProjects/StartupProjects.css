@@ -35,6 +35,14 @@
 .saaya-health-div,
 .nextu-div {
   cursor: pointer;
+  padding: 40px;
+  transition: all 0.3s ease;
+}
+.saaya-health-div:hover,
+.nextu-div:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
 }
 
 @media (max-width: 768px) {

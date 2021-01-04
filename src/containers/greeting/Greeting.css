@@ -93,6 +93,7 @@
   .button-greeting-div {
     justify-content: space-around;
   }
+
   .greeting-text {
     font-size: 30px;
     text-align: center;
@@ -105,7 +106,7 @@
   .greeting-main {
     display: block;
   }
-  .greeting-image-div{
-    height: 256px;
+  .greeting-image-div {
+    height: 600px;
   }
 }
