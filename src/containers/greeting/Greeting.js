@@ -39,7 +39,7 @@ export default function Greeting() {
                 <Button
                   text="See my resume"
                   newTab={true}
-                  href={greeting.resumeLink}
+                  href="https://drive.google.com/file/d/166bmoLRR_r_rUV8itScP_OQKlZ3k5sFQ/view?usp=sharing"
                 />
               </div>
             </div>

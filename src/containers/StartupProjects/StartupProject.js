@@ -34,7 +34,7 @@ export default function StartupProject() {
                     onClick={() => openProjectInNewWindow(project.link)}
                   >
                     <img
-                      alt="Saad Working"
+                      alt="Kyle Working"
                       height="400px"
                       width="400px"
                       src={project.image}

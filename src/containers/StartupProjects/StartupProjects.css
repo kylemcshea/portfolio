@@ -49,6 +49,12 @@
   .starup-project-image {
     display: none;
   }
+  .saaya-health-div,
+  .nextu-div {
+    cursor: pointer;
+    padding: 10px;
+    transition: all 0.3s ease;
+  }
   .project-subtitle {
     font-size: 16px;
     text-align: center;
