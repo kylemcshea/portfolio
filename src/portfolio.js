@@ -153,7 +153,7 @@ const workExperiences = {
     {
       role: "Front End Engineer",
       company: "Estee Lauder Companies",
-      companylogo: require("./assets/images/elc.png"),
+      companylogo: require("./assets/images/elc_psd.png"),
       date: "June 2020 – August 2021",
       desc:
         "Worked an internship with the ELC Online Front-End development team",
@@ -165,8 +165,8 @@ const workExperiences = {
     {
       role: "Information Security Analyst",
       company: "K2 Integrity",
-      companylogo: require("./assets/images/k2.jpg"),
-      date: "May 2018-August 2018, August 2019-December 2019",
+      companylogo: require("./assets/images/k2_psd.png"),
+      date: "May 2018 - August 2018, August 2019 - December 2019",
       desc:
         "Worked two internships with the Security Operations Center @ K2 Integrity",
       descBullets: [
@@ -179,7 +179,7 @@ const workExperiences = {
       role: "Back-End Developer",
       company: "UPS",
       companylogo: require("./assets/images/ups.jpg"),
-      date: "Jan 2015 – Sep 2015",
+      date: "June 2019 - August 2019",
       desc:
         "Worked an internship with the Enterprise Business Intelligence department",
       descBullets: [
