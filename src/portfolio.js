@@ -154,7 +154,7 @@ const workExperiences = {
       role: "Front End Engineer",
       company: "Estee Lauder Companies",
       companylogo: require("./assets/images/elc_psd.png"),
-      date: "June 2020 – August 2021",
+      date: "June 2020 – August 2020",
       desc:
         "Worked an internship with the ELC Online Front-End development team",
       descBullets: [
